@@ -1,0 +1,8 @@
+
+sc-2.3 01/19/2013 - Removed commented out code. Added right-click context menu, left commented out due to capturing menu in screen clipping. 
+
+SC-2.2 12/05/2012 - Increase maximum open instances. Changed MaxGUI to 15 on line 106 (got error after 19 open clippings). 
+
+SC-2.1 12/05/2012 - "original" script with 6 instances, "H" icon, and border. No errors.
+
+SC-2.4 03/23/2013 - changed icon, compile with new compiler on Precision (ANSI 32-bit setting)
